@@ -1,4 +1,4 @@
-package ListaEx2;
+
 
 public class ChatGpt {
 
