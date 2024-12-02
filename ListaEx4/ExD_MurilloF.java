@@ -9,8 +9,8 @@ public class ExD_MurilloF {
         
         Scanner ler = new Scanner(System.in);
 
-        Double[] mA = new Double[15];
-        Double[] mB = new Double[15];
+        double[] mA = new double[15];
+        double[] mB = new double[15];
 
         for(int i = 0; i < 15;){
 
