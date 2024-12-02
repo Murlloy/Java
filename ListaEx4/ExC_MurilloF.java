@@ -11,11 +11,11 @@ public class ExC_MurilloF {
 
         // matriz C = A - B
 
-        Double[] mA = new Double[20];
+        double[] mA = new double[20];
 
-        Double[] mB = new Double[20];
+        double[] mB = new double[20];
 
-        Double[] mC = new Double[20];
+        double[] mC = new double[20];
 
         for(int i = 0; i < 20;){
 
